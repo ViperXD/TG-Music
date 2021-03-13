@@ -11,7 +11,8 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Hi {message.from_user.first_name}!</b>
 
-I am AR Music Player, I Can Stream Music In Voice Chat Newely Introduced By Telegram
+✣ I am AR Music Player,
+✣ I Can Stream Music In Voice Chats Newely Introduced By Telegram...
 
 Use The Buttons Below To Know More About Me..""",
         reply_markup=InlineKeyboardMarkup(
@@ -26,7 +27,7 @@ Use The Buttons Below To Know More About Me..""",
                         "💬 Group", url="https://t.me/AR_Malayalam_Songs"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/Malayalam_Dj_Songs_AR"
+                        "🔈 Channel ", url="https://t.me/Malayalam_Dj_Songs_AR"
                     )
                 ]
             ]
