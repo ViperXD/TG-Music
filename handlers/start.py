@@ -18,7 +18,7 @@ Use The Buttons Below To Know More About Me..""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚡️ My Creater", url="https://t.me/ARCretionGroup"
+                        "⚡️ My. Creater", url="https://t.me/ARCretionGroup"
                     )
                 ],
                 [
