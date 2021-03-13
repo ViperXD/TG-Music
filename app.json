@@ -1,0 +1,35 @@
+{
+  "name": "MUSIC-PLAYER-PM",
+  "description": "OPEN-SOURCE BOT TO PLAY SONGS IN YOUR TELEGRAM GROUP'S VOICE CHAT .",
+  "logo": "https://telegra.ph/file/1cf5eeec49e9421766ec5.jpg",
+  "keywords": ["music", "voicechat", "telegram"],
+  "repository": "https://github.com/PURHSHOTTAM/MUSIC-PLAYER-PM2",
+  "stack": "container",
+  "env": {
+    "SESSION_NAME": {
+      "description": "PYROGRAM STRING SESSION LINK GIVEN IN REPO",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "A BOT TOKEN FROM @BotFather",
+      "required": true
+    },
+    "API_ID": {
+      "description": "APP ID FROM my.telegram.org/apps",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "APP HASH FROM my.telegram.org/apps",
+      "required": true
+    },
+    "SUDO_USERS": {
+      "description": "LIST OF USER ID COUNTED AS ADMIN EVERYWHERE (separated by space).",
+      "required": true
+    },
+    "DURATION_LIMIT": {
+      "description": "MAX AUDIO DURATION LIMIT FOR DOWNLOADS (minutes).",
+      "required": true,
+      "value": "10"
+    }
+  }
+}
