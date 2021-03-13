@@ -50,7 +50,7 @@ async def play(client: Client, message_: Message):
                         break
 
         if offset == None:
-            await res.edit_text("❕ You did not give me anything to play.")
+            await res.edit_text("❕ You Did Not Give Me Anything To Play...")
             return
 
         url = text[offset:offset+length]
