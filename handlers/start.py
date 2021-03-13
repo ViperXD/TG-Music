@@ -11,22 +11,22 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Hi {message.from_user.first_name}!</b>
 
-I am Music Player, an bot BY @VKPROJECTS that lets you play music in your Telegram groups.
+I am AR Music Player, I Can Stream Music In Voice Chat Newely Introduced By Telegram
 
-Use the buttons below to know more about me.""",
+Use The Buttons Below To Know More About Me..""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Share♐️", url="tg://msg?text=Hai%20Friend+❤️,+Today%20i+just+found+out+an+intresting+and+Powerful+**Music+BOT**+for+Free🥰.+**Bot+Link**+:+@AR_MUSIC_STREAMER_BOT+🔥"
+                        "My Owner", url="https://t.me/ARCretionGroup"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/VKP_BOTS"
+                        "💬 Group", url="https://t.me/AR_Malayalam_Songs"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/VKPROJECTS"
+                        "Channel 🔈", url="https://t.me/Malayalam_Dj_Songs_AR"
                     )
                 ]
             ]
