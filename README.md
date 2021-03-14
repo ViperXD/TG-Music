@@ -1,4 +1,7 @@
 # Group Music Bot
+
+[![telegram badge](https://img.shields.io/badge/VkProjects-30302f?style=flat&logo=telegram)](https://telegram.dog/VKPROJECTS)
+
 ## Note
 
 Neither this, or PyTgCalls are fully stable.
