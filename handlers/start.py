@@ -11,7 +11,7 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Hi {message.from_user.first_name}!</b>
 
-✣ I am AR Music Player,
+✣ I am Music Player,
 ✣ I Can Stream Music In Voice Chats Newely Introduced By Telegram...
 
 Use The Buttons Below To Know More About Me..""",
@@ -19,15 +19,15 @@ Use The Buttons Below To Know More About Me..""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚡️ My Creator", url="https://t.me/ARCreationGroup"
+                        "⚡️ My Creator", url="https://t.me/vivektvp"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/AR_Malayalam_Songs"
+                        "💬 Group", url="https://t.me/vkp_bots"
                     ),
                     InlineKeyboardButton(
-                        "🔈 Channel ", url="https://t.me/Malayalam_Dj_Songs_AR"
+                        "🔈 Channel ", url="https://t.me/vkprojects"
                     )
                 ]
             ]
