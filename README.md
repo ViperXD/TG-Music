@@ -43,7 +43,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 
 ## Credits
-- <b>[Vivek]</b>(t.me/VKPROJECTS):Main Developer
+- <b>[Vivek](t.me/VKPROJECTS)</b>:Main Developer
 
 - [Roj](https://github.com/rojserbest): developer
 - [Marvin](https://github.com/BlackStoneReborn): bug reporter
