@@ -19,15 +19,15 @@ Use The Buttons Below To Know More About Me..""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚡️ My Creator", url="https://t.me/vivektvp"
+                        "⚡️ My Creator", url="https://t.me/Master_Offline"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/vkp_bots"
+                        "💬 Group", url="https://t.me/FJ_Chat"
                     ),
                     InlineKeyboardButton(
-                        "🔈 Channel ", url="https://t.me/vkprojects"
+                        "🔈 Channel ", url="https://t.me/TamilMV_Cinemas"
                     )
                 ]
             ]
