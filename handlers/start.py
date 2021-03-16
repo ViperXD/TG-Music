@@ -24,10 +24,10 @@ Use The Buttons Below To Know More About Me..""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/movieworldkdy"
+                        "💬 Group", url="https://t.me/VKP_BOTS"
                     ),
                     InlineKeyboardButton(
-                        "🔈 Channel ", url="https://t.me/flip_zone"
+                        "🔈 Channel ", url="https://t.me/VKPROJECTS"
                     )
                 ]
             ]
